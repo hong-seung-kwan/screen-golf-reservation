@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "프렌즈스크린 연수점",
+    "address": "인천 연수구 용담로99 17",
+    "price": "16000",
+    "priceText": "16,000원/시간",
+    "imageUrl": "/images/yeonsu.png", 
+    "rating": 4.8
+  },
+  {
+    "id": 2,
+    "name": "프렌즈스크린 송도국제학교점",
+    "address": "인천 연수구 신송로170번길 10",
+    "price": "9900",
+    "priceText": "9,000원/시간",
+    "imageUrl": "/images/songdo.png",
+    "rating": 4.6
+  },
+  {
+    "id": 3,
+    "name": "골프존파크 송도더존골프점",
+    "address": "인천 연수구 컨벤시아대로 81",
+    "price": "23000",
+    "priceText": "23,000원/시간",
+    "imageUrl": "/images/songdothezone.png",
+    "rating": 4.7
+  }
+]
